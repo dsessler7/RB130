@@ -1,0 +1,8 @@
+This is my text. 
+
+It has 17 words.
+
+4 paragraphs.
+
+And 8 lines.
+This is the end.
